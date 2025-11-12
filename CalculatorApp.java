@@ -58,7 +58,6 @@ public class CalculatorApp {
                 System.out.println("Thank you for using the calculator!");
             }
         }
-
-        scanner.close();
     }
+
 }
